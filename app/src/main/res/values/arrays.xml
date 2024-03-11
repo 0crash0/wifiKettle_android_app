@@ -1,0 +1,72 @@
+<resources>
+	<!-- Reply Preference -->
+	<string-array name="reply_entries">
+		<item>Reply</item>
+		<item>Reply to all</item>
+	</string-array>
+
+	<string-array name="reply_values">
+		<item>reply</item>
+		<item>reply_all</item>
+	</string-array>
+
+	<string-array name="alarm_spin">
+		<item name="kipitim">Кипитим</item>
+		<item name="keep_hot">горячий</item>
+		<item name="keep_warm">теплый</item>
+	</string-array>
+
+	<string-array name="led_modes">
+		<item name="999">пауза</item>
+		<item name="2">плавная смена цветов всей ленты</item>
+		<item name="3">крутящаяся радуга</item>
+		<item name="4">случайная смена цветов</item>
+		<item name="5">бегающий светодиод</item>
+		<item name="6">паровозик светодиодов</item>
+		<item name="7">вращаются красный и синий</item>
+		<item name="8">вращается половина красных и половина синих</item>
+		<item name="9">стробоскоп</item>
+		<item name="10">пульсация одним цветом</item>
+		<item name="11">пульсация со сменой цветов</item>
+		<item name="12">плавная смена яркости по вертикали (для кольца)</item>
+		<item name="13">безумие красных светодиодов</item>
+		<item name="14">безумие случайных цветов</item>
+		<item name="15">ПАТРИОТИЗМ</item>
+		<item name="16">пульсирует значок радиации</item>
+		<item name="17">красный светодиод бегает по кругу</item>
+		<item name="18">бело синий градиент</item>
+		<item name="19">тоже хрень какая то</item>
+		<item name="20">красные вспышки спускаются вниз</item>
+		<item name="21">полумесяц</item>
+		<item name="22">эффект пламени</item>
+		<item name="23">радуга в вертикаьной плоскости (кольцо)</item>
+		<item name="24">пакман</item>
+		<item name="25">безумие случайных вспышек</item>
+		<item name="26">полицейская мигалка</item>
+		<item name="27">RGB пропеллер</item>
+		<item name="28">случайные вспышки красного в вертикаьной плоскости</item>
+		<item name="29">зелёненькие бегают по кругу случайно</item>
+		<item name="30">крутая плавная вращающаяся радуга</item>
+		<item name="31">чёт сломалось</item>
+		<item name="32">чёт сломалось</item>
+		<item name="33">плавное заполнение цветом</item>
+		<item name="34">бегающие светодиоды</item>
+		<item name="35">линейный огонь</item>
+		<item name="36">беготня секторов круга (не работает)</item>
+		<item name="37">очень плавная вращающаяся радуга</item>
+		<item name="38">случайные разноцветные включения</item>
+		<item name="39">бегущие огни</item>
+		<item name="40">случайные вспышки белого цвета</item>
+		<item name="41">случайные вспышки белого цвета на белом фоне</item>
+		<item name="42">бегущие каждые 3</item>
+		<item name="43">бегущие каждые 3 радуга</item>
+		<item name="44">стробоскоп</item>
+
+		<item name="45">прыгающие мячики</item>
+		// case 46: BouncingColoredBalls(3, ballColors); break; // прыгающие мячики цветные
+
+		<item name="888">длинное демо</item>
+		<item name="889">короткое демо</item>
+		<item name="890">одноцветный</item>
+	</string-array>
+</resources>

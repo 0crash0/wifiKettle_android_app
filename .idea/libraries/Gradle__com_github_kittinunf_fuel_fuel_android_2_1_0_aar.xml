@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kittinunf.fuel:fuel-android:2.1.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f698ddb3cb2184b3e2349b198a61734e/transformed/jetified-fuel-android-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f698ddb3cb2184b3e2349b198a61734e/transformed/jetified-fuel-android-2.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-android/2.1.0/aebe5c6a6fc354fd4c1d4ea8b2b300005d3d2d51/fuel-android-2.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-android/2.1.0/d9ea83a1a13d9b9d745513b75ab496349303af6b/fuel-android-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
